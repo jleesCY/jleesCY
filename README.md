@@ -44,6 +44,6 @@ Here are some ideas to get you started:
   <br/>
 </div>
 
-<p align='center'><a href="www.linkedin.com/in/joshuamlees">Linkedin<a> / <a href="https://bio.jleescy.com">Portfolio<a> / <a href="mailto:jmlees0927@gmail.com">jmlees0927@gmail.com<a></p>
+<p align='center'><a href="https://www.linkedin.com/in/joshuamlees">Linkedin<a> / <a href="https://bio.jleescy.com">Portfolio<a> / <a href="mailto:jmlees0927@gmail.com">jmlees0927@gmail.com<a></p>
 <br>
 <p align='center'><img src="https://komarev.com/ghpvc/?username=jleesCY" alt="GitHub Views"></p>
