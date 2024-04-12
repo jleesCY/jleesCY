@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <p align='center'><img src="https://streak-stats.demolab.com?user=jleesCY&t&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500" alt="GitHub Stats"></p>
+  <p align='center'><img src="https://streak-stats.demolab.com?user=jleesCY&t&hide_border=true&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500" alt="GitHub Stats"></p>
 </div>
 
 <div align="center">
